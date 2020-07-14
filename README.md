@@ -1,3 +1,3 @@
 # Odoo12-Chile-Fork
-Fork para pequeñas empresas
-Demo de git
+++++Versión Everis++++
+17/07/2020
