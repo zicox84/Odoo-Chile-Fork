@@ -1,4 +1,4 @@
 # Odoo12-Chile-Fork
 ++++Versión Everis++++
-16/07/2020
+17/07/2020
 
